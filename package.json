@@ -1,8 +1,8 @@
 {
   "name": "capy-theme-vscode",
-  "displayName": "Capy Theme",
-  "description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
-  "version": "0.1.0",
+  "displayName": "Capy Theme Collection",
+  "description": "Collection of modern dark themes for VSCode/Trae.ia/Cursor/Kiro/Antigravity including BlackBerry Dark and Gray",
+  "version": "0.2.0",
   "publisher": "rtaparay",
   "icon": "images/logo.png",
   "author": {
@@ -31,15 +31,22 @@
   "keywords": [
     "Themes",
     "Dark Theme",
+    "Fluent Theme",
     "color-theme",
-    "capy"
+    "capy",
+    "modern"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "capy",
+        "label": "Capy Theme BlackBerry Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/capy-color-theme.json"
+        "path": "./themes/capy-theme-blackberry-dark.json"
+      },
+      {
+        "label": "Capy Theme Gray",
+        "uiTheme": "vs-dark",
+        "path": "./themes/capy-theme-gray.json"
       }
     ]
   },

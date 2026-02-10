@@ -33,16 +33,6 @@
 
 Read the [VSC Extension Quickstart Guide](https://github.com/rtaparay/capy-vscode/blob/master/vsc-extension-quickstart.md)
 
-## Icon Theme
-
-The file icon theme seen in the screenshot above is [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme) with these settings:
-
-```json
-  "material-icon-theme.folders.color": "#8695b7",
-  "material-icon-theme.folders.theme": "specific",
-  "material-icon-theme.hidesExplorerArrows": true,
-```
-
 ## Color Reference
 
 ### Syntax Colors
@@ -110,7 +100,3 @@ If you want to modify the theme or build it from source:
     code --install-extension capy-vscode-v2-0.1.0.vsix
     ```
     *(Note: Replace `0.4.0` with the current version in `package.json` if it changes)*
-
-## Shameless Plug
-
-capy is also available for [Sublime Text, Atom, iTerm, and more!](https://capy-theme.netlify.com/).

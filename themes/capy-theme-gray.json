@@ -1,5 +1,6 @@
 {
-  "name": "capy",
+  "$schema": "vscode://schemas/color-theme",
+  "name": "capy-theme-gray",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {

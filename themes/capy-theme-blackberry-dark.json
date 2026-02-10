@@ -1,0 +1,138 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "name": "capy-theme-blackberry-dark",
+  "type": "dark",
+  "colors": {
+    // Barra superior de título
+    "titleBar.activeBackground": "#0F1115",
+    "titleBar.inactiveBackground": "#0F1115",
+    "titleBar.border": "#0F1115",
+    // Barra con iconos de actividad
+    "activityBar.border": "#0F1115",
+    "activityBar.background": "#0F1115",
+    "activityBar.foreground": "#7A5AF8", //<- primary
+    "activityBar.inactiveForeground": "#D6DAE0",
+    "activityBar.activeBorder": "#7A5AF8", //<- primary
+    "activityBarBadge.background": "#7A5AF8", //<- primary
+    "activityBarBadge.foreground": "#FFFFFF",
+    // Ruta del archivo
+    "breadcrumb.background": "#1C2027",
+    "breadcrumb.foreground": "#6C727F",
+    "breadcrumb.focusForeground": "#7A5AF8", //<- primary
+    "breadcrumb.activeSelectionForeground": "#7A5AF8", //<- primary
+    // Barra lateral Explorador, etc.
+    "sideBar.background": "#1C2027", //<- secondary
+    "sideBar.border": "#0F1115",
+    "sideBarSectionHeader.border": "#0F1115",
+    // Tabs
+    "tab.activeBackground": "#1C2027",
+    "tab.activeForeground": "#7A5AF8", //<- primary
+    "tab.activeBorderTop": "#7A5AF8", //<- primary
+    "tab.inactiveBackground": "#12171f",
+    "tab.inactiveForeground": "#9AA3AD",
+    "tab.hoverBackground": "#1F232B",
+    "tab.border": "#0F1115",
+    // Editor de código
+    "editor.background": "#0D1117", //<- background
+    "editor.foreground": "#D6DAE0",
+    "editor.selectionBackground": "#3B82F64D",
+    "editor.selectionHighlightBackground": "#3B82F626",
+    "editor.findMatchBackground": "#10459b59",
+    "editor.findMatchHighlightBackground": "#3B82F626",
+    "editor.wordHighlightBackground": "#3B82F61A",
+    "editorCursor.foreground": "#7A5AF8", //<- primary
+    // Bordes entre editores (tabs)
+    "editorGroup.border": "#1C2027",
+    "editorGroupHeader.border": "#00000000",
+    "editorGroupHeader.tabsBackground": "#00000000",
+    // Panel inferior (Terminal, Problemas, Salida, etc.)
+    "panel.background": "#070a0d", // background + 1
+    "panel.border": "#1C2027",
+    // Barra de estado inferior
+    "statusBar.background": "#0F1115",
+    "statusBar.border": "#20232A",
+    "statusBar.foreground": "#9AA3AD",
+    "statusBar.noFolderBackground": "#0F1115",
+    "statusBar.debuggingBackground": "#7A5AF8", //<- primary
+    "statusBar.debuggingForeground": "#fdfdfd",
+    // Listas (Explorador de archivos, etc.)
+    "list.hoverBackground": "#0F1115",
+    "list.activeSelectionBackground": "#7A5AF850", //<- primary
+    "list.inactiveSelectionBackground": "#7A5AF820", //<- primary
+    "list.focusBackground": "#1F2630",
+    // Scrollbars
+    "scrollbarSlider.background": "#7A5AF890", //<- primary
+    "scrollbarSlider.hoverBackground": "#7A5AF850", //<- primary
+    "scrollbarSlider.activeBackground": "#7A5AF880", //<- primary
+    // Botones
+    "button.background": "#7A5AF850", //<- primary
+    "button.foreground": "#FFFFFF",
+    "dropdown.background": "#0F1115",
+    "input.background": "#0F1115",
+    "textLink.foreground": "#67B5FF",
+    "focusBorder": "#00000000"
+  },
+  "tokenColors": [
+    {
+      "name": "Comments (all)",
+      "scope": [
+        "comment",
+        "comment.block",
+        "comment.line",
+        "comment.block.documentation",
+        "comment.line.documentation"
+      ],
+      "settings": {
+        "foreground": "#4F9272",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Strings",
+      "scope": "string",
+      "settings": {
+        "foreground": "#a074e7",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "Control Keywords",
+      "scope": [
+        "keyword.control",
+        "keyword.control.flow"
+      ],
+      "settings": {
+        "foreground": "#9184EE"
+      }
+    },
+    {
+      "name": "Methods",
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#FFDE9D"
+      }
+    },
+    {
+      "name": "Namespaces",
+      "scope": [
+        "entity.name.namespace",
+        "storage.type.namespace"
+      ],
+      "settings": {
+        "foreground": "#7B8188"
+      }
+    },
+    {
+      "name": "Enum Members",
+      "scope": [
+        "variable.other.enummember"
+      ],
+      "settings": {
+        "fontStyle": "italic"
+      }
+    }
+  ]
+}
