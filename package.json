@@ -1,0 +1,56 @@
+{
+  "name": "halcyon-vscode-v2",
+  "displayName": "Halcyon Theme v2",
+  "description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
+  "version": "0.1.0",
+  "publisher": "rtaparay",
+  "icon": "images/logo.png",
+  "author": {
+    "name": "Raul Taparay",
+    "email": "rtaparay@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rtaparay/halcyon-vscode"
+  },
+  "bugs": {
+    "url": "https://github.com/rtaparay/halcyon-vscode/issues",
+    "email": "rtaparay@gmail.com"
+  },
+  "homepage": "https://github.com/rtaparay/halcyon-vscode/blob/master/README.md",
+  "galleryBanner": {
+    "color": "#171c28",
+    "theme": "dark"
+  },
+  "engines": {
+    "vscode": "^1.18.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Themes",
+    "Dark Theme",
+    "color-theme",
+    "Halcyon"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Halcyon",
+        "uiTheme": "vs-dark",
+        "path": "./themes/halcyon-color-theme.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "@babel/core": "^7.22.5",
+    "@babel/eslint-parser": "^7.22.5",
+    "@upstatement/eslint-config": "^2.0.0",
+    "@upstatement/prettier-config": "^1.1.0",
+    "@vscode/vsce": "^3.6.0",
+    "eslint": "^8.43.0",
+    "eslint-config-prettier": "^8.8.0",
+    "prettier": "^2.8.8"
+  }
+}
