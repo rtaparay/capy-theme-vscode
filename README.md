@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="capy Logo" src="https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/master/images/logo.png" width="100" />
+  <img alt="capy Logo" src="https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
   capy Theme for VS Code
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo.png)
 
 ## Installation via VS Code
 
@@ -28,7 +28,7 @@
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/rtaparay/capy-theme-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/rtaparay/capy-theme-vscode/blob/main/vsc-extension-quickstart.md)
 
 ## Color Reference
 
