@@ -5,9 +5,6 @@
   capy Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://capy-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
-</p>
-<p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-theme-vscode">
     <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/rtaparay.capy-theme-vscode?color=brightgreen" />
   </a>
