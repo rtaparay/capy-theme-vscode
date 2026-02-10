@@ -1,8 +1,8 @@
-# Agent Guidelines for Halcyon VS Code Theme v2
+# Agent Guidelines for capy VS Code Theme v2
 
 ## Project Overview
 
-This is a **VS Code Theme Extension** project called "Halcyon Theme v2" - a dark blue theme based on Ayu Mirage. The project targets VS Code ^1.18.0 and uses modern JavaScript tooling including ESLint, Prettier, and Babel.
+This is a **VS Code Theme Extension** project called "capy Theme v2" - a dark blue theme based on Ayu Mirage. The project targets VS Code ^1.18.0 and uses modern JavaScript tooling including ESLint, Prettier, and Babel.
 
 ## Build/Development Commands
 
@@ -25,7 +25,7 @@ nvm use
 npx vsce package
 
 # Install locally for testing
-code --install-extension halcyon-vscode-v2-0.1.0.vsix
+code --install-extension capy-vscode-v2-0.1.0.vsix
 
 # Debug extension (use VS Code's "Extension" launch configuration)
 # Press F5 in VS Code to launch Extension Development Host
@@ -51,7 +51,7 @@ npx prettier --write .
 ```
 ├── package.json                     # Extension manifest (currently in VSIX only)
 ├── themes/
-│   └── halcyon-color-theme.json    # Main theme definition (32KB)
+│   └── capy-color-theme.json    # Main theme definition (32KB)
 ├── images/                         # Logo and demo images
 ├── demo/                          # Sample files for theme testing
 ├── .eslintrc                      # ESLint configuration
@@ -82,7 +82,7 @@ import { BrowserModule } from '@angular/platform-browser';
 ```
 
 ### Naming Conventions
-- **Files**: kebab-case for theme files (`halcyon-color-theme.json`)
+- **Files**: kebab-case for theme files (`capy-color-theme.json`)
 - **Classes**: PascalCase (`AppModule`, `AppComponent`)
 - **Variables/Functions**: camelCase (`hello`, `doesNotExist`)
 - **Constants**: camelCase (following project patterns)
@@ -186,4 +186,4 @@ npx vsce publish [major|minor|patch]
 
 ---
 
-*This file serves as a comprehensive guide for AI agents working on the Halcyon VS Code Theme project. Follow these guidelines to maintain code quality and consistency.*
+*This file serves as a comprehensive guide for AI agents working on the capy VS Code Theme project. Follow these guidelines to maintain code quality and consistency.*

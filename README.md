@@ -1,37 +1,37 @@
 <p align="center">
-  <img alt="Halcyon Logo" src="https://raw.githubusercontent.com/rtaparay/halcyon-vscode/master/images/logo.png" width="100" />
+  <img alt="capy Logo" src="https://raw.githubusercontent.com/rtaparay/capy-vscode/master/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  Halcyon Theme for VS Code
+  capy Theme for VS Code
 </h1>
 <p align="center">
-  A minimal, dark blue theme for <a href="https://halcyon-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
+  A minimal, dark blue theme for <a href="https://capy-theme.netlify.com/">VS Code, Sublime Text, Atom, and more</a>.
 </p>
 <p align="center">
-  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.halcyon-vscode">
-    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/rtaparay.halcyon-vscode?color=brightgreen" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-vscode">
+    <img alt="Version" src="https://img.shields.io/visual-studio-marketplace/v/rtaparay.capy-vscode?color=brightgreen" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.halcyon-vscode">
-    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/rtaparay.halcyon-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-vscode">
+    <img alt="Downloads" src="https://img.shields.io/visual-studio-marketplace/d/rtaparay.capy-vscode" />
   </a>
-  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.halcyon-vscode">
-    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/rtaparay.halcyon-vscode" />
+  <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-vscode">
+    <img alt="Installs" src="https://img.shields.io/visual-studio-marketplace/i/rtaparay.capy-vscode" />
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/rtaparay/halcyon-vscode/master/images/demo.png)
+![demo](https://raw.githubusercontent.com/rtaparay/capy-vscode/master/images/demo.png)
 
 ## Installation via VS Code
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Halcyon`
+2. Search for `capy`
 3. Click **Install** to install it
 4. Click **Reload** to reload the editor
-5. Code > Preferences > Color Theme > **Halcyon**
+5. Code > Preferences > Color Theme > **capy**
 
 ## Manual Installation
 
-Read the [VSC Extension Quickstart Guide](https://github.com/rtaparay/halcyon-vscode/blob/master/vsc-extension-quickstart.md)
+Read the [VSC Extension Quickstart Guide](https://github.com/rtaparay/capy-vscode/blob/master/vsc-extension-quickstart.md)
 
 ## Icon Theme
 
@@ -87,8 +87,8 @@ If you want to modify the theme or build it from source:
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/rtaparay/halcyon-vscode.git
-    cd halcyon-vscode
+    git clone https://github.com/rtaparay/capy-vscode.git
+    cd capy-vscode
     ```
 
 2.  **Install dependencies:**
@@ -107,10 +107,10 @@ If you want to modify the theme or build it from source:
 4.  **Install the generated `.vsix`:**
     You can install the resulting file in VS Code by running:
     ```bash
-    code --install-extension halcyon-vscode-v2-0.1.0.vsix
+    code --install-extension capy-vscode-v2-0.1.0.vsix
     ```
     *(Note: Replace `0.4.0` with the current version in `package.json` if it changes)*
 
 ## Shameless Plug
 
-Halcyon is also available for [Sublime Text, Atom, iTerm, and more!](https://halcyon-theme.netlify.com/).
+capy is also available for [Sublime Text, Atom, iTerm, and more!](https://capy-theme.netlify.com/).

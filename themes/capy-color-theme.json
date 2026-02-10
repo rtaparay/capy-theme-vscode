@@ -1,5 +1,5 @@
 {
-  "name": "Halcyon",
+  "name": "capy",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -18,17 +18,17 @@
   },
   "colors": {
     // Base colors
-    "focusBorder": "#8695b777",
+    "focusBorder": "#131314",
     "foreground": "#8695b7",
-    "widget.shadow": "#0e1219",
-    "selection.background": "#8695b777",
+    "widget.shadow": "#131314",
+    "selection.background": "#131314",
     "descriptionForeground": "#d7dce2",
     "errorForeground": "#ef6b73",
 
     // Text colors
     "textBlockQuote.background": "#2f3b54",
     "textBlockQuote.border": "#2f3b54",
-    "textCodeBlock.background": "#171c28",
+    "textCodeBlock.background": "#131314",
     "textLink.activeForeground": "#ffcc66",
     "textLink.foreground": "#ffcc66",
     "textPreformat.foreground": "#d7dce2",

@@ -1,23 +1,23 @@
 {
-  "name": "halcyon-vscode-v2",
-  "displayName": "Halcyon Theme v2",
+  "name": "capy-theme-vscode",
+  "displayName": "Capy Theme",
   "description": "A dark blue theme for VS Code based on the Ayu Mirage theme",
   "version": "0.1.0",
   "publisher": "rtaparay",
   "icon": "images/logo.png",
   "author": {
     "name": "Raul Taparay",
-    "email": "rtaparay@gmail.com"
+    "email": "rtaparay@hotmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/rtaparay/halcyon-vscode"
+    "url": "https://github.com/rtaparay/capy-theme-vscode"
   },
   "bugs": {
-    "url": "https://github.com/rtaparay/halcyon-vscode/issues",
-    "email": "rtaparay@gmail.com"
+    "url": "https://github.com/rtaparay/capy-theme-vscode/issues",
+    "email": "rtaparay@hotmail.com"
   },
-  "homepage": "https://github.com/rtaparay/halcyon-vscode/blob/master/README.md",
+  "homepage": "https://github.com/rtaparay/capy-theme-vscode/blob/master/README.md",
   "galleryBanner": {
     "color": "#171c28",
     "theme": "dark"
@@ -32,14 +32,14 @@
     "Themes",
     "Dark Theme",
     "color-theme",
-    "Halcyon"
+    "capy"
   ],
   "contributes": {
     "themes": [
       {
-        "label": "Halcyon",
+        "label": "capy",
         "uiTheme": "vs-dark",
-        "path": "./themes/halcyon-color-theme.json"
+        "path": "./themes/capy-color-theme.json"
       }
     ]
   },
