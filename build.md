@@ -19,11 +19,12 @@ If you want to modify the theme or build it from source:
     To package the extension into a `.vsix` file:
     ```bash
     npx vsce package
+    npx ovsx publish capy-theme-vscode-0.2.0.vsix -p <token>
     ```
 
 4.  **Install the generated `.vsix`:**
     You can install the resulting file in VS Code by running:
     ```bash
-    code --install-extension capy-theme-vscode-v2-0.1.0.vsix
+    code --install-extension capy-theme-vscode-0.2.0.vsix
     ```
     *(Note: Replace `0.4.0` with the current version in `package.json` if it changes)*
