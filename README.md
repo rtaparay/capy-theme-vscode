@@ -107,9 +107,8 @@ npx vsce package     # Package extension as .vsix
 
 ## URL
 
-https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-theme-vscode
-
-https://open-vsx.org/extension/rtaparay/capy-theme-vscode
+- [Marketplace VSCode](https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-theme-vscode) - Capy Theme Collection
+- [Open VSX](https://open-vsx.org/extension/rtaparay/capy-theme-vscode) - Capy Theme Collection
 
 ## License
 
