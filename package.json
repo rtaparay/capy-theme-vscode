@@ -1,8 +1,8 @@
 {
   "name": "capy-theme-vscode",
   "displayName": "Capy Theme Collection",
-  "description": "Collection of modern dark themes for VSCode/Trae.ia/Cursor/Kiro/Antigravity including BlackBerry Dark and Gray",
-  "version": "0.2.0",
+  "description": "Collection of modern dark themes for VSCode/Trae.ia/Cursor/Kiro/Antigravity including BlackBerry Dark, Dark and Gray",
+  "version": "0.3.0",
   "publisher": "rtaparay",
   "icon": "images/logo.png",
   "author": {
@@ -31,13 +31,20 @@
   "keywords": [
     "Themes",
     "Dark Theme",
-    "Fluent Theme",
+    "Gray Theme",
     "color-theme",
     "capy",
-    "modern"
+    "modern",
+    "BlackBerry",
+    "Dark"
   ],
   "contributes": {
     "themes": [
+      {
+        "label": "Capy Theme Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/capy-theme-dark.json"
+      },
       {
         "label": "Capy Theme BlackBerry Dark",
         "uiTheme": "vs-dark",

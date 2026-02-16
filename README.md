@@ -16,7 +16,18 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo.png)
+## Preview -  Blackberry
+
+![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo_blackberry.png)
+
+## Preview -  Dark
+
+![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo_dark.png)
+
+## Preview -  Gray
+
+![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo_gray.png)
+
 
 ## Installation via VS Code
 
