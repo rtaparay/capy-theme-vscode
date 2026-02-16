@@ -22,7 +22,7 @@
 
 ## Preview - Dark
 
-![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo_dark.png)
+![demo](https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/demo.png)
 
 ## Preview - Gray
 
@@ -104,3 +104,13 @@ npx vsce package     # Package extension as .vsix
 5. Commit your changes (`git commit -m 'Add amazing feature'`)
 6. Push to the branch (`git push origin feature/amazing-feature`)
 7. Open a Pull Request
+
+## URL
+
+https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-theme-vscode
+
+https://open-vsx.org/extension/rtaparay/capy-theme-vscode
+
+## License
+
+MIT (c) 2026 rtaparay
