@@ -2,7 +2,7 @@
   <img alt="capy Logo" src="https://raw.githubusercontent.com/rtaparay/capy-theme-vscode/main/images/logo.png" width="100" />
 </p>
 <h1 align="center">
-  capy Theme for VS Code
+  Capy Theme for VS Code
 </h1>
 <p align="center">
   <a href="https://marketplace.visualstudio.com/items?itemName=rtaparay.capy-theme-vscode">
